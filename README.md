@@ -1,4 +1,4 @@
-# magnet-uri [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
+# bep53-range [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
 [travis-image]: https://img.shields.io/travis/hicom150/bep53-range/master.svg
 [travis-url]: https://travis-ci.org/hicom150/bep53-range
