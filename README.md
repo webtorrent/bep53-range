@@ -1,7 +1,7 @@
 # bep53-range [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
-[travis-image]: https://img.shields.io/travis/hicom150/bep53-range/master.svg
-[travis-url]: https://travis-ci.org/hicom150/bep53-range
+[travis-image]: https://img.shields.io/travis/webtorrent/bep53-range/master.svg
+[travis-url]: https://travis-ci.org/webtorrent/bep53-range
 [npm-image]: https://img.shields.io/npm/v/bep53-range.svg
 [npm-url]: https://npmjs.org/package/bep53-range
 [downloads-image]: https://img.shields.io/npm/dm/bep53-range.svg
