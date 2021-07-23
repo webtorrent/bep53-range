@@ -10,6 +10,8 @@
     "url": "https://github.com/webtorrent/bep53-range/issues"
   },
   "devDependencies": {
+    "@webtorrent/semantic-release-config": "1.0.5",
+    "semantic-release": "17.4.4",
     "standard": "*",
     "tape": "^5.0.1"
   },
@@ -27,5 +29,13 @@
     "range",
     "webtorrent"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "renovate": {
+    "extends": [
+      "github>webtorrent/renovate-config"
+    ]
+  },
+  "release": {
+    "extends": "@webtorrent/semantic-release-config"
+  }
 }
