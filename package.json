@@ -2,7 +2,7 @@
   "name": "bep53-range",
   "description": "Magnet URI extension (BEP53) range implementation",
   "type": "module",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "author": {
     "name": "Julen Garcia Leunda",
     "email": "hicom150@gmail.com"
