@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/webtorrent/bep53-range/compare/v2.0.0...v2.0.1) (2026-05-25)
+
+
+### Bug Fixes
+
+* **release:** update release.yml with permissions for release ([4039200](https://github.com/webtorrent/bep53-range/commit/4039200ea3aa535698f89f211735600e490b4175))
+
 # [2.0.0](https://github.com/webtorrent/bep53-range/compare/v1.1.1...v2.0.0) (2022-11-16)
 
 
